@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413407778956",
+    "project_id": "pizza-delevry",
+    "storage_bucket": "pizza-delevry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413407778956:android:a531f095cc2c9ad89b43a9",
+        "android_client_info": {
+          "package_name": "com.example.pizzaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr83e0biUBiDVgzg9XDjeakuAzrz_6Rnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
